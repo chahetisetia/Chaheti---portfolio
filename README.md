@@ -38,7 +38,7 @@
         <img src="https://raw.githubusercontent.com/YOUR-USERNAME/chaheti-portfolio/main/2.png" alt="Design 2">
         <img src="https://raw.githubusercontent.com/YOUR-USERNAME/chaheti-portfolio/main/IMG_2794_2.JPG" alt="Design 3">
         <img src="https://raw.githubusercontent.com/YOUR-USERNAME/chaheti-portfolio/main/IMG_2795_2.JPG" alt="Design 4">
-        <img src="https://raw.githubusercontent.com/YOUR-USERNAME/chaheti-portfolio/main/gender justice.png" alt="Design 1">
+        <img src="https://raw.githubusercontent.com/YOUR-USERNAME/chaheti-portfolio/main/gender justice.PNG" alt="Design 1">
 
     </div>
 
