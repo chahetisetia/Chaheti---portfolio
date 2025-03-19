@@ -35,12 +35,11 @@
     <p>Explore my work in IT, UX design, and graphic design.</p>
 
     <div class="gallery">
-        <img src="https://raw.githubusercontent.com/YOUR-USERNAME/chaheti-portfolio/main/1.png" alt="Design Sample 1">
-        <img src="https://raw.githubusercontent.com/YOUR-USERNAME/chaheti-portfolio/main/2.png" alt="Design Sample 2">
+        <img src="https://raw.githubusercontent.com/YOUR-USERNAME/chaheti-portfolio/main/2.PNG" alt="Design Sample 1">
+        <img src="https://raw.githubusercontent.com/YOUR-USERNAME/chaheti-portfolio/main/IMG_2794%202.JPG" alt="Design Sample 2">
+        <img src="https://raw.githubusercontent.com/YOUR-USERNAME/chaheti-portfolio/main/IMG_2795%202.JPG" alt="Design Sample 3">
         <img src="https://raw.githubusercontent.com/YOUR-USERNAME/chaheti-portfolio/main/gender_justice.PNG" alt="Gender Justice Poster">
-        <img src="https://raw.githubusercontent.com/YOUR-USERNAME/chaheti-portfolio/main/IMG_2795_2.JPG" alt="Another Design Sample">
     </div>
 
 </body>
 </html>
-
