@@ -35,7 +35,7 @@
     <p>Explore my work in IT, UX design, and graphic design.</p>
 
     <div class="gallery">
-        <img src="https://raw.githubusercontent.com/YOUR-USERNAME/chaheti-portfolio/main/1.png" alt="Design 1">
+        <img src="https://raw.githubusercontent.com/YOUR-USERNAME/chaheti-portfolio/main/1._png" alt="Design 1">
         <img src="https://raw.githubusercontent.com/YOUR-USERNAME/chaheti-portfolio/main/2.png" alt="Design 2">
         <img src="https://raw.githubusercontent.com/YOUR-USERNAME/chaheti-portfolio/main/IMG_2794_2.JPG" alt="Design 3">
         <img src="https://raw.githubusercontent.com/YOUR-USERNAME/chaheti-portfolio/main/IMG_2795_2.JPG" alt="Design 4">
