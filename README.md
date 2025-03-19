@@ -1,5 +1,3 @@
-# Chaheti---portfolio
-A personal portfolio website showcasing my skills in IT, UX design, and graphic design. Includes work samples, contact details, and a brief about me section."
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -27,20 +25,20 @@ A personal portfolio website showcasing my skills in IT, UX design, and graphic 
         .gallery img {
             width: 400px;
             border-radius: 10px;
-            box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+            box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
         }
     </style>
 </head>
 <body>
 
     <h1>Welcome to My Portfolio</h1>
-    <p>Here are some of my design works.</p>
+    <p>Explore my work in IT, UX design, and graphic design.</p>
 
     <div class="gallery">
-        <img src="1.PNG" alt="Gender Justice Poster">
-        <img src="2.png" alt="Safeguard Society Poster">
-        <img src="IMG_2794 2.JPG" alt="Newsletter Club Logo">
-        <img src="IMG_2795 2.JPG" alt="Theatre Club Poster">
+        <img src="https://raw.githubusercontent.com/YOUR-USERNAME/chaheti-portfolio/main/1.png" alt="Design 1">
+        <img src="https://raw.githubusercontent.com/YOUR-USERNAME/chaheti-portfolio/main/2.png" alt="Design 2">
+        <img src="https://raw.githubusercontent.com/YOUR-USERNAME/chaheti-portfolio/main/IMG_2794_2.JPG" alt="Design 3">
+        <img src="https://raw.githubusercontent.com/YOUR-USERNAME/chaheti-portfolio/main/IMG_2795_2.JPG" alt="Design 4">
     </div>
 
 </body>
